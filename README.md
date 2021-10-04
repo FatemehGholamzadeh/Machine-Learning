@@ -59,7 +59,10 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 
 #### problem2:  
 * implementation of DBScan clustering Algorithm  
-* reporting purity measure
+* reporting purity measure  
+
+![image](https://user-images.githubusercontent.com/44861408/135862734-5f4c9a38-a936-465a-bb06-f6992f918b0a.png)
+
 
 #### problem3:  
 * implementation of Hierarchical clustering Algorithm
