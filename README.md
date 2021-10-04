@@ -1,7 +1,7 @@
 # Machine-Learning-Course-Assignments
 Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan Nazerfard - Spring 2021  
 
-## HW1 :  
+# HW1 :  
 #### problem1:  
 * implementation of linear Refression with gradient descent algorithm 
 * fitting polynomial line with different degrees on signal data (univariate)  
@@ -15,10 +15,10 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 
 * getting familiar with concepts such as: correlation, multivariate linear Regression, feature selection, Regularization, Normal Equation, ...
 
-## HW2 :  
+# HW2 :  
 #### problem1:  
 * implementaion of KNN on MNIST dataset and reporting accuracy, confusion matrix and plotting pictures.  
-### Results:  
+### part of Results:  
 ![image](https://user-images.githubusercontent.com/44861408/135861592-c1710831-f352-4e4e-8228-0aed3b16f57d.png)
 
 #### problem2:  
@@ -29,7 +29,11 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 #### problem3:  
 * implementaion of Logistic Regression (one-vs-all) on MNIST dataset and plotting results.
 
-## HW3 :  
+### part of Results:  
+![image](https://user-images.githubusercontent.com/44861408/135861906-1b8d550c-ce26-46dc-bd23-8146d185500c.png)
+
+
+# HW3 :  
 #### problem1:  
 * SVM using python libraries (linear, polynomial, RBF and sigmoid kernels)
 * reporting accuracy and F1-measure
@@ -37,7 +41,7 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 * implementation of Ensemble methods: RandomForest, AdaBoost, Gradient Boosting
 * reporting accuracy and confusion Matrix.  
 
-## HW4 :  
+# HW4 :  
 #### problem1:  
 * implementation of KMeans clustering Algorithm
 
