@@ -2,7 +2,17 @@
 Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan Nazerfard - Spring 2021  
 
 ## HW1 :  
-* implementation of linear Refression with gradient descent algorithm  
+#### problem1:  
+* implementation of linear Refression with gradient descent algorithm 
+* fitting polynomial line with different degrees on signal data (univariate)  
+
+### plots:  
+![image](https://user-images.githubusercontent.com/44861408/135860937-a91d12c9-4497-4cc9-a552-ad3e9f414dcb.png)  
+  
+![image](https://user-images.githubusercontent.com/44861408/135860978-70db061a-b0c7-4b3f-b229-8aa099a5b3ef.png)
+
+
+
 * getting familiar with concepts such as: correlation, multivariate linear Regression, feature selection, Regularization, Normal Equation, ...
 
 ## HW2 :  
