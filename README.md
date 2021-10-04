@@ -70,8 +70,12 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 
 ### Results on second dataset:  
 
-![image](https://user-images.githubusercontent.com/44861408/135862881-d33bc01e-88b6-4203-9058-c6c092fd87f2.png)
+![image](https://user-images.githubusercontent.com/44861408/135862881-d33bc01e-88b6-4203-9058-c6c092fd87f2.png)  
 
+
+### Results on third dataset:  
+
+![image](https://user-images.githubusercontent.com/44861408/135863142-847b7b11-d209-4c25-9faa-e71e60bf6697.png)
 
 
 #### problem3:  
