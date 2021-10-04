@@ -10,12 +10,25 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 * implementation of Naive Bayes Algorithm on Wine dataset, reporting accuracy using 6-fold-cross-validation and plotting ROC curve. 
 * implementaion of Logistic Regression (one-vs-all) on MNIST dataset and plotting results.
 
-## HW2 :  
+## HW3 :  
 #### problem1:  
 * SVM using python libraries (linear, polynomial, RBF and sigmoid kernels)
 * reporting accuracy and F1-measure
 #### problem2:  
 * implementation of Ensemble methods: RandomForest, AdaBoost, Gradient Boosting
-* reporting accuracy and confusion Matrix
+* reporting accuracy and confusion Matrix.  
 
+## HW4 :  
+#### problem1:  
+* implementation of KMeans clustering Algorithm
+
+#### problem2:  
+* implementation of DBScan clustering Algorithm
+* reporting purity measure
+
+#### problem3:  
+* implementation of Hierarchical clustering Algorithm
+
+#### problem4:  
+* implementation of Reinfocement Learning (Deep Q Network) in Mountain Car Environment.
 
