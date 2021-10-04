@@ -2,7 +2,7 @@
 Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan Nazerfard - Spring 2021  
 
 # HW1 :  
-#### problem1:  
+## problem1:  
 * implementation of linear Refression with gradient descent algorithm 
 * fitting polynomial line with different degrees on signal data (univariate)  
 
@@ -16,17 +16,17 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 * getting familiar with concepts such as: correlation, multivariate linear Regression, feature selection, Regularization, Normal Equation, ...
 
 # HW2 :  
-#### problem1:  
+## problem1:  
 * implementaion of KNN on MNIST dataset and reporting accuracy, confusion matrix and plotting pictures.  
 ### part of Results:  
 ![image](https://user-images.githubusercontent.com/44861408/135861592-c1710831-f352-4e4e-8228-0aed3b16f57d.png)
 
-#### problem2:  
+## problem2:  
 * implementation of Naive Bayes Algorithm on Wine dataset, reporting accuracy using 6-fold-cross-validation and plotting ROC curve. 
 ### ROC curve:  
 ![image](https://user-images.githubusercontent.com/44861408/135861769-26ffb57d-b3a9-4874-a890-90f89780b021.png)
 
-#### problem3:  
+## problem3:  
 * implementaion of Logistic Regression (one-vs-all) on MNIST dataset and plotting results.
 
 ### part of Results:  
@@ -34,15 +34,15 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 
 
 # HW3 :  
-#### problem1:  
+## problem1:  
 * SVM using python libraries (linear, polynomial, RBF and sigmoid kernels)
 * reporting accuracy and F1-measure
-#### problem2:  
+## problem2:  
 * implementation of Ensemble methods: RandomForest, AdaBoost, Gradient Boosting
 * reporting accuracy and confusion Matrix.  
 
 # HW4 :  
-#### problem1:  
+## problem1:  
 * implementation of KMeans clustering Algorithm   
 
 ### Results on first dataset: 
@@ -60,7 +60,7 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 
 
 
-#### problem2:  
+## problem2:  
 * implementation of DBScan clustering Algorithm  
 * reporting purity measure  
 
@@ -78,9 +78,13 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 ![image](https://user-images.githubusercontent.com/44861408/135863142-847b7b11-d209-4c25-9faa-e71e60bf6697.png)
 
 
-#### problem3:  
-* implementation of Hierarchical clustering Algorithm
+## problem3:  
+* implementation of Hierarchical clustering Algorithm  
 
-#### problem4:  
+### Results:  
+![image](https://user-images.githubusercontent.com/44861408/135863549-2ca2eac2-623d-4ac8-bb59-b96ef56595aa.png)
+
+
+## problem4:  
 * implementation of Reinforcement Learning (Deep Q Network) in Mountain Car Environment.
 
