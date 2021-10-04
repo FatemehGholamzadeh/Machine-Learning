@@ -18,6 +18,9 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 ## HW2 :  
 #### problem1:  
 * implementaion of KNN on MNIST dataset and reporting accuracy, confusion matrix and plotting pictures.  
+### Results:  
+![image](https://user-images.githubusercontent.com/44861408/135861592-c1710831-f352-4e4e-8228-0aed3b16f57d.png)
+
 #### problem2:  
 * implementation of Naive Bayes Algorithm on Wine dataset, reporting accuracy using 6-fold-cross-validation and plotting ROC curve. 
 #### problem3:  
