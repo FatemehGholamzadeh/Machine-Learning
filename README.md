@@ -23,6 +23,9 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 
 #### problem2:  
 * implementation of Naive Bayes Algorithm on Wine dataset, reporting accuracy using 6-fold-cross-validation and plotting ROC curve. 
+### ROC curve:  
+![image](https://user-images.githubusercontent.com/44861408/135861769-26ffb57d-b3a9-4874-a890-90f89780b021.png)
+
 #### problem3:  
 * implementaion of Logistic Regression (one-vs-all) on MNIST dataset and plotting results.
 
