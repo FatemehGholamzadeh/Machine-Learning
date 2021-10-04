@@ -43,7 +43,10 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 
 # HW4 :  
 #### problem1:  
-* implementation of KMeans clustering Algorithm
+* implementation of KMeans clustering Algorithm  
+![image](https://user-images.githubusercontent.com/44861408/135862228-ec6743d0-a288-409d-944c-8838bdd45b61.png)
+
+
 
 #### problem2:  
 * implementation of DBScan clustering Algorithm
