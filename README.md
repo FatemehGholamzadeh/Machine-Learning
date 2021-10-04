@@ -25,7 +25,21 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 
 ### plot of Data:  
 
-![image](https://user-images.githubusercontent.com/44861408/135864586-2b8f4074-9727-4feb-b754-05b05128b87b.png)
+![image](https://user-images.githubusercontent.com/44861408/135864586-2b8f4074-9727-4feb-b754-05b05128b87b.png)  
+
+### Correlation Diagram:  
+
+![image](https://user-images.githubusercontent.com/44861408/135864865-10632b16-670e-4a43-a9f4-a9fa9a6c0168.png)
+
+### Error vs Iterations:  
+
+![image](https://user-images.githubusercontent.com/44861408/135864950-08a3dee9-e0a0-4128-a1fd-3a29de07860e.png)  
+
+## Pace Size vs Iterations:  
+
+![image](https://user-images.githubusercontent.com/44861408/135865015-53b988fb-0b82-47d2-9cd8-657469c6483f.png)
+
+
 
 
 # HW2 :  
