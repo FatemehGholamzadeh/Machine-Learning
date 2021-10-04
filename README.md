@@ -45,11 +45,14 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 #### problem1:  
 * implementation of KMeans clustering Algorithm   
 
+### Results on first dataset: 
 ![image](https://user-images.githubusercontent.com/44861408/135862566-d5644d7d-534a-47c6-b745-2fff12c34bb6.png)  
 
-  
+ ### Results on second dataset: 
+
 ![image](https://user-images.githubusercontent.com/44861408/135862359-54f4d490-342a-4621-b02d-6cbd6bb23cc9.png)  
 
+### Results on third dataset: 
 
 ![image](https://user-images.githubusercontent.com/44861408/135862461-40f66014-99bf-4db1-8895-f714e0a91fb4.png)
 
@@ -61,7 +64,14 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 * implementation of DBScan clustering Algorithm  
 * reporting purity measure  
 
-![image](https://user-images.githubusercontent.com/44861408/135862734-5f4c9a38-a936-465a-bb06-f6992f918b0a.png)
+### Results on first dataset: 
+
+![image](https://user-images.githubusercontent.com/44861408/135862734-5f4c9a38-a936-465a-bb06-f6992f918b0a.png)  
+
+### Results on second dataset:  
+
+![image](https://user-images.githubusercontent.com/44861408/135862881-d33bc01e-88b6-4203-9058-c6c092fd87f2.png)
+
 
 
 #### problem3:  
