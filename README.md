@@ -6,8 +6,11 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 * getting familiar with concepts such as: correlation, multivariate linear Regression, feature selection, Regularization, Normal Equation, ...
 
 ## HW2 :  
+#### problem1:  
 * implementaion of KNN on MNIST dataset and reporting accuracy, confusion matrix and plotting pictures.  
+#### problem2:  
 * implementation of Naive Bayes Algorithm on Wine dataset, reporting accuracy using 6-fold-cross-validation and plotting ROC curve. 
+#### problem3:  
 * implementaion of Logistic Regression (one-vs-all) on MNIST dataset and plotting results.
 
 ## HW3 :  
@@ -30,5 +33,5 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 * implementation of Hierarchical clustering Algorithm
 
 #### problem4:  
-* implementation of Reinfocement Learning (Deep Q Network) in Mountain Car Environment.
+* implementation of Reinforcement Learning (Deep Q Network) in Mountain Car Environment.
 
