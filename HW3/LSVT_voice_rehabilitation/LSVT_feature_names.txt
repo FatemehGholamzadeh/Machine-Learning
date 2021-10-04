@@ -1,0 +1,68 @@
+LSVT Voice Rehabilitation Data Set  
+
+Abstract: LSVT Voice Rehabilitation Dataset
+
+============================================================
+
+Data Set Characteristics:  Multivariate
+Attribute Characteristics:  Real
+Associated Tasks:  Classification
+Number of Instances:  126
+Number of Attributes:  309
+Area:  Life
+Date Donated:  20 February 2014
+Data prepared: Athanasios Tsanas (tsanasthanasis '@' gmail.com)
+
+============================================================
+
+SOURCE:
+
+The dataset was created by Athanasios Tsanas (tsanasthanasis '@' gmail.com) of the University of Oxford, extracting clinical information from speech signals which were provided by LSVT Global, a company specialising in voice rehabilitation. The original study used 309 algorithms to characterize 126 speech signals from 14 people, a robust feature selection mechanism to determine the most parsimonious feature subset, and Support Vector Machines (SVM) and Random Forests (RF) to predict the binary response (acceptable vs unacceptable phonation during rehabilitation). Both cross-validation (10-fold cross validation with 100 repetitions for statistical confidence) and leave one subject out methods were used for the validation of the findings. In both cases we denostrated a near 90% accurate replication of the clinicians' assessment.
+
+============================================================
+
+DATA SET INFORMATION:
+
+This dataset is composed of a range of biomedical speech signal processing algorithms from 14 people who have been diagnosed with Parkinson's disease undergoing LSVT (a program assisting voice rehabilitation). 
+
+The Excel file has three sheets: the first sheet, 'Data', contains the dataset (design matrix). The second sheet, 'Binary response', contains the response (target) we aim to replicate. The third sheet, 'Participant demographics', contains general demographics (participant id, age and gender).
+Each row in the design matrix corresponds to one of 126 voice recordings. 
+
+The aim is to use the 309 features to predict the binary response. For further information please contact Athanasios 
+Tsanas (tsanasthanasis '@' gmail.com).
+
+Further details are contained in the following reference -- if you use this dataset, please cite:
+
+A. Tsanas, M.A. Little, C. Fox, L.O. Ramig: “Objective automatic assessment of rehabilitative speech treatment in Parkinson’s disease”, IEEE Transactions on Neural Systems and Rehabilitation Engineering, Vol. 22, pp. 181-190, January 2014
+
+
+More details about the biomedical speech signal processing algorithms can be found in:
+
+[1] A. Tsanas,	Accurate telemonitoring of Parkinson’s disease symptom severity using nonlinear speech signal processing and statistical machine learning, D.Phil. (Ph.D.) thesis, University of Oxford, UK, 2012
+
+[2] A. Tsanas, M.A. Little, P.E. McSharry, L.O. Ramig: “Nonlinear speech analysis algorithms mapped to a standard metric achieve clinically useful quantification of average Parkinson’s disease symptom severity”, Journal of the Royal Society Interface, Vol. 8, pp. 842-855, 2011 
+
+[3] A. Tsanas, M.A. Little, P.E. McSharry, L.O. Ramig: “New nonlinear markers and insights into speech signal degradation for effective tracking of Parkinson’s disease symptom severity”, International Symposium on Nonlinear Theory and its Applications (NOLTA), pp. 457-460, Krakow, Poland, 5-8 September 2010 
+ 
+===========================================================
+
+ATTRIBUTE INFORMATION:
+
+Please see the Excel file provided. In all cases, the attributes (features) are continuous valued. 
+
+===========================================================
+
+RELEVANT PAPERS:
+
+A. Tsanas,	Accurate telemonitoring of Parkinson’s disease symptom severity using nonlinear speech signal processing and statistical machine learning, D.Phil. (Ph.D.) thesis, University of Oxford, UK, 2012
+
+A. Tsanas, M.A. Little, P.E. McSharry, L.O. Ramig: “Nonlinear speech analysis algorithms mapped to a standard metric achieve clinically useful quantification of average Parkinson’s disease symptom severity”, Journal of the Royal Society Interface, Vol. 8, pp. 842-855, 2011 
+
+A. Tsanas, M.A. Little, P.E. McSharry, L.O. Ramig: “New nonlinear markers and insights into speech signal degradation for effective tracking of Parkinson’s disease symptom severity”, International Symposium on Nonlinear Theory and its Applications (NOLTA), pp. 457-460, Krakow, Poland, 5-8 September 2010  
+
+===========================================================
+
+CITATION REQUEST:
+
+If you use this dataset, please cite the following paper:
+A. Tsanas, M.A. Little, C. Fox, L.O. Ramig: “Objective automatic assessment of rehabilitative speech treatment in Parkinson’s disease”, IEEE Transactions on Neural Systems and Rehabilitation Engineering, Vol. 22, pp. 181-190, January 2014 
