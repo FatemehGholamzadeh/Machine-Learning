@@ -7,13 +7,26 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 * fitting polynomial line with different degrees on signal data (univariate)  
 
 ### plots:  
+
+### Fitting Plots:  
+
 ![image](https://user-images.githubusercontent.com/44861408/135860937-a91d12c9-4497-4cc9-a552-ad3e9f414dcb.png)  
-  
-![image](https://user-images.githubusercontent.com/44861408/135860978-70db061a-b0c7-4b3f-b229-8aa099a5b3ef.png)
 
+### Pace Size vs Iterations plot :  
+![image](https://user-images.githubusercontent.com/44861408/135864243-9d392d56-a889-4273-b03a-f9114b583311.png)
 
+### Error plot of train and test for degree 7:  
 
+![image](https://user-images.githubusercontent.com/44861408/135864306-1845fc0b-2360-4297-9e84-2c2449e472e1.png)
+
+ 
+## Problem2:  
 * getting familiar with concepts such as: correlation, multivariate linear Regression, feature selection, Regularization, Normal Equation, ...
+
+### plot of Data:  
+
+![image](https://user-images.githubusercontent.com/44861408/135864586-2b8f4074-9727-4feb-b754-05b05128b87b.png)
+
 
 # HW2 :  
 ## problem1:  
