@@ -3,7 +3,7 @@ Assignments of Machine Learning Graduate Course under supervision of Dr. Ehsan N
 
 # HW1 :  
 ## problem1:  
-* implementation of linear Refression with gradient descent algorithm 
+* implementation of linear Regression with gradient descent algorithm 
 * fitting polynomial line with different degrees on signal data (univariate)  
 
 ### plots:  
